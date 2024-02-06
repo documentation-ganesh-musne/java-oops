@@ -7,7 +7,6 @@
 - Classes and objects are used to create reusable code.
 - To increases the flexibility and maintainability of the program.
 
----
 
 ## <span style="color:#0d6efd">Class and Objects.</span>
 
@@ -67,7 +66,6 @@
 - In above code, We are creating object of *Student* class.
 - **new** key word used to create new instance.
 
----
 
 ## <span style="color:#0d6efd">Constructor</span>
 
@@ -134,8 +132,6 @@
 
 ```
 
----
-
 ## <span style="color:#0d6efd">Static, Local and Instance variable.</span>
 
 1. **static variable** (Class variable) 
@@ -169,7 +165,8 @@
 - Use instance variables for attributes specific to each object (instance) of a class.
 
 - Use local variables for temporary storage within methods or blocks.
----
+
+
 
 ## <span style="color:#0d6efd">Polymorphism and it's types</span>
 
@@ -192,7 +189,7 @@
 - There are two occurrences of Run-Time Polymorphism.
 - Method Overriding - Method Overriding is a procedure in which the compiler can allow a child class to implement a specific method already provided in the parent class.
 
----
+
 
 ## <span style="color:#0d6efd">Inheritance and it's types</span>
 
@@ -220,5 +217,3 @@
 **Multiple Inheritance**
 - There is also a fifth type of Inheritance, but it is not supported in Java, as multiple class inheritance causes ambiguities.
 - Multiple inheritance is also called a diamond problem. Hence, Java does not support multiple class inheritance.
-
----
