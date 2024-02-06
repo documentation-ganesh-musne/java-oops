@@ -2,7 +2,6 @@
 
 ## <span style="color:#0d6efd">Why we need class and objects?</span>
 
----
 
 - Classes and objects allow you to model real-world entities or abstract concepts in your program.
 - Classes and objects are used to create reusable code.
@@ -12,7 +11,6 @@
 
 ## <span style="color:#0d6efd">Class and Objects.</span>
 
----
 ### <span style="color:#0d6efd">What is a class?</span>
 -  A class is the blueprint from which individual objects are created.
 - In the real world, you'll often find many individual objects all of the same kind.
@@ -40,7 +38,7 @@
 - *studentName*, *studentId* are the object's states.
 - This class doesn't contain main method because it's just the blueprint for *Student* that might be used in an application.
 
----
+
 
 ### <span style="color:#0d6efd">What is an object?</span>
 - Objects are key to understanding object-oriented technology.
@@ -73,7 +71,7 @@
 
 ## <span style="color:#0d6efd">Constructor</span>
 
----
+
 - A class contains constructors that are invoked to create objects from the class blueprint. 
 - Constructor declarations look like method declarations *except* that they use the name of the class and have no return type.
 - Constructors are only called once, at object creation.
@@ -140,7 +138,6 @@
 
 ## <span style="color:#0d6efd">Static, Local and Instance variable.</span>
 
----
 1. **static variable** (Class variable) 
     - Definition: Static variables are declared using the static keyword and belong to the class itself, not to any instance of the class. They are shared among all instances of the class.
 
@@ -176,7 +173,6 @@
 
 ## <span style="color:#0d6efd">Polymorphism and it's types</span>
 
----
 
 - Polymorphism allows us to perform a single action in different ways. 
 - In other words, polymorphism allows you to define one interface and have multiple implementations.
@@ -200,7 +196,6 @@
 
 ## <span style="color:#0d6efd">Inheritance and it's types</span>
 
----
 - Inheritance is one of the object-oriented programming concepts in Java. 
 - Inheritance enables the acquisition of data members and properties from one class to another.
 - Types of Inheritance in Java
