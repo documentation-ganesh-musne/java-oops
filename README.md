@@ -136,7 +136,6 @@
 
 1. **static variable** (Class variable) 
     - Definition: Static variables are declared using the static keyword and belong to the class itself, not to any instance of the class. They are shared among all instances of the class.
-
     ```java 
         public class MyClass {
             static int count = 0;
